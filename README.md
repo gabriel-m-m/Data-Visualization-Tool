@@ -5,4 +5,4 @@ This application takes a spreadsheet of publication data, in which each entry co
 
 ### Instructions
 
-Upon running the program you will prompted to input the filepath of your chosen .xlsx dataset. After choosing your file, you will also be able to enter the colour of the nodes and edges. Once you are finished, the graph will be generated and you will be taken to a new window. Here you can adjust the framing and sizing of the plot, and you have the ability to save the plot as a png.
+To start the program run the whole notebook/all cells. Upon doing so you will prompted to input the filepath of your chosen .xlsx dataset. After choosing your file, you will also be able to enter the colour of the nodes and edges. Once you are finished, the graph will be generated and you will be taken to a new window. Here you can adjust the framing and sizing of the plot, and you have the ability to save the plot as a png.
